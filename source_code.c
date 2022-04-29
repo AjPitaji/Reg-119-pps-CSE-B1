@@ -6,6 +6,8 @@
 #include <stdlib.h>
 #include<time.h>
 
+// Storing ASCII arts of Rock Paper and Scissor in double dimensional Character array
+
   char rock[6][100]={
                     "    _______",
                     "---'   ____)",
